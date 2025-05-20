@@ -70,6 +70,9 @@ Microsoft Software and Systems Academy (PCAD 17)
 
 [7.1.1](https://github.com/Soomin-Song-MSSA-PCAD17/Assignment-7.1.1)
 [7.1.2](https://github.com/Soomin-Song-MSSA-PCAD17/Assignment-7.1.2)
+[7.2.1](https://github.com/Soomin-Song-MSSA-PCAD17/Assignment-7.2.1)
+[7.2.2](https://github.com/Soomin-Song-MSSA-PCAD17/Assignment-7.2.2)
+[7.2.3](https://github.com/Soomin-Song-MSSA-PCAD17/Assignment-7.2.3)
 
 ## Others
 [Mini Project: Console Chess](https://github.com/Soomin-Song-MSSA-PCAD17/Mini-Project---Console-Chess)
