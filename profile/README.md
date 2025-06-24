@@ -92,6 +92,17 @@ Microsoft Software and Systems Academy (PCAD 17)
 [12.1](https://github.com/Soomin-Song-MSSA-PCAD17/Assignment-12.1)
 [12.2](https://github.com/Soomin-Song-MSSA-PCAD17/Assignment-12.2)
 
+### Tests
+[11.2.1](https://github.com/Soomin-Song-MSSA-PCAD17/TestLeetCode121)
+[11.2.2](https://github.com/Soomin-Song-MSSA-PCAD17/TestLeetCode206)
+[11.3.1](https://github.com/Soomin-Song-MSSA-PCAD17/TestLeetCode1331)
+[11.3.2](https://github.com/Soomin-Song-MSSA-PCAD17/TestLeetCode169)
+[Challenge 11.1](https://github.com/Soomin-Song-MSSA-PCAD17/TestLeetCode75)
+[Challenge 11.2](https://github.com/Soomin-Song-MSSA-PCAD17/TestLeetCode1189)
+
+[12.1](https://github.com/Soomin-Song-MSSA-PCAD17/TestLeetCode383)
+[12.2](https://github.com/Soomin-Song-MSSA-PCAD17/TestLeetCode203)
+
 ## Others
 [Mini Project: Console Chess](https://github.com/Soomin-Song-MSSA-PCAD17/Mini-Project---Console-Chess)
 [ArraySquareSorted](https://github.com/Soomin-Song-MSSA-PCAD17/ArraySquaredSorted)
